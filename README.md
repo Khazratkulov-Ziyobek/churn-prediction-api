@@ -4,6 +4,12 @@
 
 ---
 
+## Demo
+
+**Streamlit приложение:** [bank-churn-prediction-api.streamlit.app](https://bank-churn-prediction-api.streamlit.app/)
+
+---
+
 ## Выполненные этапы
 
 ### 1. Анализ данных и предобработка
@@ -164,12 +170,6 @@ docker run -p 8000:8000 churn-api
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## Demo
-
-**Streamlit приложение:** [ссылка будет добавлена после деплоя]
 
 ---
 
