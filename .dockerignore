@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+*.egg-info/
+.git/
+.gitignore
+*.ipynb_checkpoints/
+churn_analysis.ipynb
+.DS_Store
+catboost_info/
